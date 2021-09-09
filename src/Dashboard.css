@@ -1,0 +1,40 @@
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.trigger:hover {
+  color: #1890ff;
+}
+
+.logo {
+  height: 32px;
+  font-size: 20px;
+  margin: 16px;
+  color :  #fff;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+label
+{
+  width: 250px;
+  display: inline-block;
+}
+
+.Addsecurity{
+  background : #1890ff;
+}
+
+.ant-dropdown-button {
+  margin: 0 8px 8px 0;
+}
+
+.ant-btn-group-rtl.ant-dropdown-button {
+  margin: 0 0 8px 8px;
+}
